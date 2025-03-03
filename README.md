@@ -1,7 +1,7 @@
 # 💫 About Me:
- 👋 Hi, I’m @vasu-CE<br>  
- 👀 I’m interested in learning new things<br>  
- 🌱 I’m currently learning PERN<br>  
+👋 Hi, I’m @vasu-CE <br> <br>
+👀 I’m passionate about learning new technologies and building innovative projects.<br> <br>
+🌱 Currently exploring PERN Stack (PostgreSQL, Express, React, Node.js) with prior experience in MERN Stack. <br> <br>
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vasu-kamani-11a07b277/)  
 
 ## 🌐 Socials:
