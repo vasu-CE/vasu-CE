@@ -4,6 +4,9 @@
 🌱 Currently exploring PERN Stack (PostgreSQL, Express, React, Node.js) with prior experience in MERN Stack. <br> <br>
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vasu-kamani-11a07b277/)  
 
+![Vasu's GitHub Profile](https://avatars.githubusercontent.com/u/vasu-CE)  
+[![Vasu's GitHub Profile](https://img.shields.io/badge/Visit_Profile-%23FF8C00.svg?logo=github&logoColor=white)](https://github.com/vasu-CE)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-kamani-11a07b277/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/vasu_kamani/)  
